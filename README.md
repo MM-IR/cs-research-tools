@@ -1,8 +1,9 @@
 # cs-research-tools
 一位北美top20计算机科学名校硕士摘录～
 
-# 0.Candidate
+# 0.Candidate候选人
 这个就是PhD Candidate就是代表你是在读博士。
+>applicant申请者/Spirant有志者/Nominee被提名者
 
 # 1.on-call
 这个就是随叫随到，是一种工作方式。
