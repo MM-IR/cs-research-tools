@@ -1,6 +1,9 @@
 # cs-research-tools
 一位北美top20计算机科学名校硕士摘录～
 
+# 0.Candidate
+这个就是PhD Candidate就是代表你是在读博士。
+
 # 1.on-call
 这个就是随叫随到，是一种工作方式。
 >一般就是工作需要，直接喊你就要工作啦。
