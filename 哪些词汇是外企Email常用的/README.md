@@ -1,4 +1,5 @@
 # 1.常用词汇
+在我们描述一个东西的feat或者说attributes的时候，我们应该这么描述: We characterize a prevalent weakness of deep neural networks.@overthinking
 1)highlight, 
 
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/40928887/125006305-63d8d800-e090-11eb-93ea-a0d166a370c1.png">
