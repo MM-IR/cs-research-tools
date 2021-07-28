@@ -19,3 +19,35 @@
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/40928887/127252982-e409fbdd-5fcc-466c-bda4-0baab5bc8349.png">
 
 [create a file](https://phoenixnap.com/kb/how-to-create-a-file-in-linux)
+
+# Directory Navigation
+<img width="370" alt="image" src="https://user-images.githubusercontent.com/40928887/127253236-2188cb13-24a9-4b90-af76-6f1f850fdd73.png">
+
+# File Compression
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/40928887/127253256-fabf3fba-977c-4c91-aa09-f24aaa88cc73.png">
+
+# File Transfer
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/40928887/127253282-a2489f69-001e-436a-a38b-d25c284b25da.png">
+
+# Users
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/40928887/127253302-2f2f369e-1f51-4950-8d17-1bf5f0b90927.png">
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/40928887/127253308-43fa8ab1-6cb5-40fe-8687-a6267dbef668.png">
+
+[add a user to a group](https://phoenixnap.com/kb/how-to-add-user-to-group-linux)
+
+# Package Installation
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/40928887/127253365-c2e7e597-9988-4f21-a1de-08d471ca6c3d.png">
+<img width="369" alt="image" src="https://user-images.githubusercontent.com/40928887/127253379-0ddc9cf5-9c07-4646-ac87-5241102b1410.png">
+
+# Process Related
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/40928887/127253399-bf6575c0-c5ca-4a1b-a304-7d769b6257cc.png">
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/40928887/127253405-58c12e89-8cfb-4d51-9928-fd2bbbb1926a.png">
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/40928887/127253420-745e4d80-ae18-4f67-b76d-b1178fbf2be2.png">
+
+[use disown command](https://phoenixnap.com/kb/disown-command-linux)
+
+# System Info
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/40928887/127253527-afe8c3a7-30be-48a1-ad8d-4fd4ef6cd394.png">
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/40928887/127253536-24c5b195-0188-416a-9c27-e00c71c81817.png">
+
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/40928887/127253405-58c12e89-8cfb-4d51-9928-fd2bbbb1926a.png">
