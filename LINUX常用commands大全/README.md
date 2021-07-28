@@ -54,5 +54,30 @@
 
 # Disk Usage
 [check disk space in Linux](https://phoenixnap.com/kb/linux-check-disk-space)
+
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/40928887/127253723-89f0f2f4-2ad8-40f6-9024-3e28ed8ba197.png">
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/40928887/127253982-8d31a0e4-6eea-467d-8706-fe9c46b5e276.png">
+
+# SSH Login
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/40928887/127254011-53a52281-24e8-4a56-9f05-a61ab9e413f4.png">
+
+[19 Common SSH Commands in Linux](https://phoenixnap.com/kb/linux-ssh-commands)
+
+# File Permission
+[chown command in Linux](https://phoenixnap.com/kb/linux-chown-command-with-examples)
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/40928887/127254132-b04b43c7-0049-4e6e-b380-9b68151918b9.png">
+
+[Linux File Permission Tutorial](https://phoenixnap.com/kb/linux-file-permissions)
+
+# Network
+<img width="411" alt="image" src="https://user-images.githubusercontent.com/40928887/127254277-44a8b4ac-b5ae-409d-b4ca-b3a014eb3da9.png">
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/40928887/127254290-997bb098-65f0-4d19-bd55-26e88362e77e.png">
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/40928887/127254304-c880e150-4369-47bf-b232-f41735d81f8d.png">
+
+# Linux Keyboard Shortcuts
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/40928887/127254339-46c4855e-eb36-4205-9b4b-6da189bface2.png">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/40928887/127254350-ed719b45-8e50-4a90-b5e3-2bee3cebe1b8.png">
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/40928887/127254364-46bb6fcd-010c-4678-8a69-e148c407f2d0.png">
 
