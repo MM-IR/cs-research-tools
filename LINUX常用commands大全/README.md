@@ -18,4 +18,4 @@
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/40928887/127252982-e409fbdd-5fcc-466c-bda4-0baab5bc8349.png">
 
-![creat a file](https://phoenixnap.com/kb/how-to-create-a-file-in-linux)
+![https://phoenixnap.com/kb/how-to-create-a-file-in-linux](creat a file)
