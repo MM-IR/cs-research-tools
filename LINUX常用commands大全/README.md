@@ -50,4 +50,9 @@
 <img width="519" alt="image" src="https://user-images.githubusercontent.com/40928887/127253527-afe8c3a7-30be-48a1-ad8d-4fd4ef6cd394.png">
 <img width="333" alt="image" src="https://user-images.githubusercontent.com/40928887/127253536-24c5b195-0188-416a-9c27-e00c71c81817.png">
 
-<img width="427" alt="image" src="https://user-images.githubusercontent.com/40928887/127253405-58c12e89-8cfb-4d51-9928-fd2bbbb1926a.png">
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/40928887/127253699-a50f9486-e94b-4e49-9836-eb621a01225c.png">
+
+# Disk Usage
+[check disk space in Linux](https://phoenixnap.com/kb/linux-check-disk-space)
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/40928887/127253723-89f0f2f4-2ad8-40f6-9024-3e28ed8ba197.png">
+
