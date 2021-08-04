@@ -1,4 +1,14 @@
-# -2 就是我们
+# -3 在写这个abstract的时候
+我们最好用一句话来表示清楚这个novelty的总结
+
+# -4 然后呢 看到这个novelty，就自然想到应该这么表达创新点。
+
+越自然的想法越好，而不是拼凑的
+
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/40928887/128160956-2432b3fe-c84d-4866-8c80-b5114559b67b.png">
+
+# -2 就是我们在introduction里写做了什么时候
+尽量客观，不要用什么carefully
 # -1 注意科研中的避免歧义词汇
 指定某个事情的时候 我们必须同时说清楚是哪个对象，什么东西。
 
