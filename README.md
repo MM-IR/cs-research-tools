@@ -1,5 +1,9 @@
 # 在介绍逻辑的时候
-我们可以先引入一句形而上的表达，然而再介绍对应的形而下的介绍。先抽象再具体～
+我们可以先引入一句形而上的表达，然而再介绍对应的形而下的介绍。先抽象再具体～。这里就是不需要hence这种东西了。
+
+# 从句和主句如果都是有表示目的的句子，那么仅仅保留主句的那个目的就好。
+in order to fully understand the interactions between video objects, we have to enable our network to learn and reason the question-related relations between slots with varying lengths.
+>这里前面的in order to就可以删掉啦
 # -3 在写这个abstract的时候
 我们最好用一句话来表示清楚这个novelty的总结
 
