@@ -4,3 +4,7 @@
 # 1.idea
 在idea上，这里就是跟他们讨论一下，优秀的两位博士能够给出很高屋建瓴的指导。
 
+# 2.PhD Candidate
+>PhD Candidate 就是某个人谁已经满足了fulfilled all the requirements for the degree except the dissertation.
+
+
