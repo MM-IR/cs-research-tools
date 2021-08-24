@@ -73,7 +73,9 @@
 >echo "$model_name/log.txt"
 
 ### 然后咱们可以用eval.sh
+
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/40928887/130568087-0c3227bf-a046-4589-804d-79d27b2e8825.png">
+
 >gpu=$1
 >model_name=$2
 >data_dir=/home/data
